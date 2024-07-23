@@ -1,11 +1,11 @@
 # TIL
 ---
 ## ML-study
-### 1. Warm Up
-1-1. The concepts of a feature
-1-2. Data types 
-1-3. Loading data with pandas
-1-4. Representing a model with numpy
+### 1. Warm Up   
+1-1. The concepts of a feature    
+1-2. Data types    
+1-3. Loading data with pandas   
+1-4. Representing a model with numpy   
 
 ### 2. Numpy
 2-1. Numpy overview
