@@ -5,5 +5,5 @@
 - Matrix 일경우 앞은 row 뒤는 column
 
 #### slicing
-- List와 달리 행과 열 부분을 나눠서 slicin이 가능함
+- List와 달리 행과 열 부분을 나눠서 slicing이 가능함
 - Matrix의 부분 집합을 추출할 때 유용함
